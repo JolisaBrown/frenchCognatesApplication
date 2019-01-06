@@ -1,0 +1,23 @@
+p{
+	color:black;
+	font-weight: bold;
+	font-family: Courier New, monospace; 
+}
+
+.image { 
+	position: relative; 
+	width: 100%; /* for IE 6 */
+}
+
+.image h2 { 
+	position: absolute; 
+	top: 116px; 
+	left: 0; 
+	width: 100%; 
+	color: white;
+}
+*{
+	background-image : url("baby-elephant.jpg");
+	background-size: contain;	
+}
+

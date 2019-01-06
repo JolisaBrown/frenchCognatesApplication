@@ -1,0 +1,124 @@
+﻿Final Project Plan Template
+
+
+Team Name:EPIC- Every Person is Capable
+Team Members:Jolisa Brown
+Project Title:EPIC- Every Person is Capable
+
+
+Description and Overview
+
+What problem are you trying to solve?
+
+I want to assist people with language learning. Many Americans are monolingual, not because they are 
+unable to learn but because language learning has never been presented to them in such a way as to make the 
+task manageable. Because of that, many individuals are daunted before they even begin and don't truly try.
+My website would try to counteract this national anxiety surrounding languages in hopes of making the endeavor 
+of language acquisition more paletable.
+_______________
+
+
+
+
+Who is your project’s target audience?
+
+My project's primary audience is individuals with a strong basis in english who hope to learn French. Eventually, I would
+like to expand the project to include people wanting to learn Spanish as well. 
+________________
+
+
+
+
+How are you planning to solve this problem? Be specific when talking about the technology and programming 
+languages you will use.
+
+I would like to use HTML,Java, Bootstrap, and potentially PHP to execute this project. As of now this is all I believe 
+that this will be all that I need. 
+________________
+
+
+Goals
+
+
+Have reasonable expectations and set clear, quantifiable goals.
+
+
+What is the minimum that you would like to see completed by next Tuesday?
+
+By next Tuesday I would like to make the program be able to identify lexical similarities between english
+and french, and give the user examples of words that have these similarities. I also would like for it to 
+define the french or english  words that are presented as similar. I also would like for it to translate
+the definitions of the word into the other language as well as keep the original definition.
+Afterwards, I would like for it to translate the inputted words in the other language. 
+________________
+
+
+
+
+What are stretch goals if there is time permitting?
+
+I would like to include modules on rules of how words transform from one language to another. 
+_________
+
+
+
+Competitive Analysis Research
+
+
+Research at least three other similar applications. Comment on what you like about their application and 
+how you would improve it. Include links and screenshots of these applications
+
+
+One other application that specializes in language learning is Duolingo, which is useful because it creates
+a daily curriculum, which helps to hold people accountable in their language learning pursuits. 
+________________
+
+
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+________________
+
+
+
+
+________________
